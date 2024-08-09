@@ -27,4 +27,4 @@ provider "azurerm" {
   }
 }
 
-# Simple comment
+# Simple comment after all stages created
